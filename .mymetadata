@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="cp410"
+  id="myeclipse.1550824146835"
+  context-root="/cp410"
+  j2ee-spec="5.0"
+  archive="cp410.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
